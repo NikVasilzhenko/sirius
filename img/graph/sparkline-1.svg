@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1041px" height="356px" viewBox="0 0 1041 356" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Sparkline 1 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.42890995%" y1="112.652853%" x2="96.5847303%" y2="-3.96582093%" id="linearGradient-1">
+            <stop stop-color="#F7618B" offset="0%"></stop>
+            <stop stop-color="#2A7AFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M230.282707,7353 L228,7339.76234 L293.835733,7328.43022 L359.572569,7325.37958 L425.00522,7320.30031 L490.343559,7317.44044 L555.370002,7310.72612 L621.988856,7299.80725 L687.295195,7316.55854 L750.378452,7303.97697 L815.812588,7272.41712 L881.173755,7259.60872 L943.724948,7227.98795 L1010.31915,7088.7291 L1079.09211,7099.45701 L1141.62972,7078.9769 L1205.99738,7021 L1215,7030.97682 L1148.52002,7090.85632 L1080.20998,7113.22681 L1018.1353,7103.54376 L953.881853,7237.90772 L885.5854,7272.43282 L820.098923,7285.26578 L754.685414,7316.81569 L686.921026,7330.33088 L621.379721,7313.51932 L557.15093,7324.04646 L491.329728,7330.84284 L425.820422,7333.71019 L360.50974,7338.78 L295.29462,7341.80968 L230.282707,7353 Z M882.08568,7259.43001 L880.344556,7260.02789 L881.173755,7259.60872 L882.08568,7259.43001 Z M555.569388,7310.70553 L555.172198,7310.75854 L555.370002,7310.72612 L555.569388,7310.70553 Z" id="path-2"></path>
+        <filter x="-2.8%" y="-10.1%" width="111.1%" height="124.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="42" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Charts" transform="translate(-228.000000, -7016.000000)" fill-rule="nonzero">
+            <g id="Sparkline-1-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Uni Sans Thin Italic CAPS';
+    src: url('../fonts/subset-UniSansThinItalicCAPS.eot');
+    src: url('../fonts/subset-UniSansThinItalicCAPS.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-UniSansThinItalicCAPS.woff2') format('woff2'),
+        url('../fonts/subset-UniSansThinItalicCAPS.woff') format('woff'),
+        url('../fonts/subset-UniSansThinItalicCAPS.ttf') format('truetype'),
+        url('../fonts/subset-UniSansThinItalicCAPS.svg#UniSansThinItalicCAPS') format('svg');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+
+@font-face {
+    font-family: 'Uni Sans Thin CAPS';
+    src: url('../fonts/subset-UniSansThinCAPS.eot');
+    src: url('../fonts/subset-UniSansThinCAPS.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-UniSansThinCAPS.woff2') format('woff2'),
+        url('../fonts/subset-UniSansThinCAPS.woff') format('woff'),
+        url('../fonts/subset-UniSansThinCAPS.ttf') format('truetype'),
+        url('../fonts/subset-UniSansThinCAPS.svg#UniSansThinCAPS') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Uni Sans Heavy CAPS';
+    src: url('../fonts/subset-UniSansHeavyCAPS.eot');
+    src: url('../fonts/subset-UniSansHeavyCAPS.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-UniSansHeavyCAPS.woff2') format('woff2'),
+        url('../fonts/subset-UniSansHeavyCAPS.woff') format('woff'),
+        url('../fonts/subset-UniSansHeavyCAPS.ttf') format('truetype'),
+        url('../fonts/subset-UniSansHeavyCAPS.svg#UniSansHeavyCAPS') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Uni Sans Heavy Italic CAPS';
+    src: url('../fonts/subset-UniSansHeavyItalicCAPS.eot');
+    src: url('../fonts/subset-UniSansHeavyItalicCAPS.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/subset-UniSansHeavyItalicCAPS.woff2') format('woff2'),
+        url('../fonts/subset-UniSansHeavyItalicCAPS.woff') format('woff'),
+        url('../fonts/subset-UniSansHeavyItalicCAPS.ttf') format('truetype'),
+        url('../fonts/subset-UniSansHeavyItalicCAPS.svg#UniSansHeavyItalicCAPS') format('svg');
+    font-weight: 900;
+    font-style: italic;
+}
